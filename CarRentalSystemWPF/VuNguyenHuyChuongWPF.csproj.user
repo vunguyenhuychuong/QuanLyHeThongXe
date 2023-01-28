@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="CarManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CarManagementPopUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CarRentalManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CarRentalManagementPopUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerManagementPopUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuCustomerManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuStaffManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffManagementPopUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewRentingHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CarManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CarManagementPopUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CarRentalManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CarRentalManagementPopUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerManagementPopUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuCustomerManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuStaffManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffManagementPopUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewRentingHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

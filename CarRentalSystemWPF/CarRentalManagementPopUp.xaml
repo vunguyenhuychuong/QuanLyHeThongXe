@@ -1,0 +1,28 @@
+﻿<Window x:Class="VuNguyenHuyChuongWPF.CarRentalManagementPopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VuNguyenHuyChuongWPF"
+        mc:Ignorable="d"
+        Title="CarRentalManagementPopUp" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label x:Name="lbAdd_Update">Add/Update</Label>
+            <Label>Customer  Id:</Label>
+            <TextBox x:Name="txtCustomerId"></TextBox>
+            <Label>Car Id</Label>
+            <TextBox x:Name="txtCarId"></TextBox>
+            <Label>Pickup Date</Label>
+            <TextBox x:Name="txtPickupDate"></TextBox>
+            <Label>Return Date</Label>
+            <TextBox x:Name="txtReturnDate"></TextBox>
+            <Label>Rent Price</Label>
+            <TextBox x:Name="txtRentPrice"></TextBox>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnAdd_Update" Click="btnAdd_Update_Click">Add/Update</Button>
+                <Button x:Name="btnClose" Click="btnClose_Click">Close</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

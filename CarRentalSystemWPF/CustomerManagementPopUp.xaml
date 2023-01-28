@@ -1,0 +1,34 @@
+﻿<Window x:Class="CarRentalSystemWPF.CustomerManagementPopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarRentalSystemWPF"
+        mc:Ignorable="d"
+        Title="CustomerManagementPopUp" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label x:Name="lbAdd_Update">Add/Update</Label>
+            <Label>Customer Id:</Label>
+            <TextBox x:Name="txtCustomerId"></TextBox>
+            <Label>Customer Name</Label>
+            <TextBox x:Name="txtCustomerName"></TextBox>
+            <Label>Mobile</Label>
+            <TextBox x:Name="txtMobile"></TextBox>
+            <Label>Customer Email</Label>
+            <TextBox x:Name="txtCustomerEmail"></TextBox>
+            <Label>Customer Password</Label>
+            <PasswordBox x:Name="txtCustomerPassword"></PasswordBox>
+            <Label>IdentityCard</Label>
+            <TextBox x:Name="txtIdentityCard"></TextBox>
+            <Label>LicenseNumber</Label>
+            <TextBox x:Name="txtLicenseNumber"></TextBox>
+            <Label>LicenseDate</Label>
+            <TextBox x:Name="txtLicenseDate"></TextBox>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnAdd_Update" Click="btnAdd_Update_Click">Add/Update</Button>
+                <Button x:Name="btnClose" Click="btnClose_Click">Close</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

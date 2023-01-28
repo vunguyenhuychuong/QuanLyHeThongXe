@@ -1,0 +1,40 @@
+﻿<Window x:Class="CarRentalSystemWPF.CustomerManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarRentalSystemWPF"
+        mc:Ignorable="d"
+        Title="CustomerManagement" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,12,0,12">
+                    <Label>Selected id:</Label>
+                    <TextBox x:Name="txtSelectedId" Width="86" IsEnabled="False" Text="{Binding Path=CustomerId, Mode=OneWay}" DataContext="{Binding ElementName=lsvCustomer, Path=SelectedItem}"></TextBox>
+                </StackPanel>
+                <ListView x:Name="lsvCustomer" Height="310" SelectionChanged="lsvCustomers_SelectionChanged">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="CustomerID" Width="100" DisplayMemberBinding="{Binding CustomerId}"/>
+                            <GridViewColumn Header="CustomerName" Width="230" DisplayMemberBinding="{Binding CustomerName}"/>
+                            <GridViewColumn Header="Mobile" Width="120" DisplayMemberBinding="{Binding Mobile}"/>
+                            <GridViewColumn Header="CustomerEmail" Width="100" DisplayMemberBinding="{Binding CustomerEmail}"/>
+                            <GridViewColumn Header="CustomerPassword" Width="100" DisplayMemberBinding="{Binding CustomerPassword}"/>
+                            <GridViewColumn Header="IdentityCard" Width="100" DisplayMemberBinding="{Binding IdentityCard}"/>
+                            <GridViewColumn Header="LicenseNumber" Width="100" DisplayMemberBinding="{Binding LicenceNumber}"/>
+                            <GridViewColumn Header="LicenseDate" Width="100" DisplayMemberBinding="{Binding LicenceDate}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                    <Button x:Name="btnCarRental" Content="CarRental" Width="120" Margin="45,0,0,0" Click="btnCarRental_Click"/>
+                    <Button x:Name="btnAdd" Content="Add" Width="120" Margin="45,0,0,0" Height="30" Click="btnAdd_Click"/>
+                    <Button x:Name="btnUpdate" Content="Update" Width="120" Margin="25,0,0,0" Click="btnUpdate_Click"/>
+                    <Button x:Name="btnDelete" Content="Delete" Width="120" Margin="25,0,0,0" Click="btnDelete_Click"/>
+                    <Button x:Name="btnCancel" Content="Cancel" Width="120" Margin="25,0,0,0" Click="btnCancel_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

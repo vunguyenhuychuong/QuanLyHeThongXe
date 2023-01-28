@@ -1,0 +1,30 @@
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+E:\Project - c#\SE150542 - Vũ nguyễn Huy Chương\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+E:\Project - c#\SE150542 _Vũ nguyễn Huy Chương_Ass01\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
